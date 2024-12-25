@@ -5,10 +5,12 @@
 3. Factor back tests
 参考文件 协偏度因子分析.ipynb
 
-呈现效果可以参考PDF文件,如果需要数据文件，请联系我的邮箱 hongming@stu.pku.edu.cn
-The rendering effect can be referred to the PDF file(English version). If you need data file, feel free to contact me at hongming@stu.pku.edu.cn
+呈现效果可以参考PDF文件,如果需要数据文件或者贡献代码，请联系我的邮箱 hongming@stu.pku.edu.cn
+
+The rendering effect can be referred to the PDF file(English version). If you need data file or commit code, feel free to contact me at hongming@stu.pku.edu.cn
 
 以下是一些实现的内容参考：
+
 Here are some implementation references:
 
 <img width="1100" alt="image" src="https://github.com/user-attachments/assets/fd98d85c-8369-41c6-8730-328d4a4ccacc" />
